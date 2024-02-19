@@ -2,4 +2,4 @@ In today's urban landscape, the escalating number of vehicles and limited parkin
 
 The "Optimal Parking Spot Allocation System" project emerges as a response to these challenges. By leveraging advanced algorithms, real-time data updates, and user-friendly design, the project seeks to revolutionize parking allocation. The goal is to minimize search times, enhance user satisfaction, and contribute to more organized urban spaces. 
 
-Motivated by the pressing need for efficient parking solutions, the project envisions a future where technology streamlines the allocation process. By optimizing routes and selecting suitable parking spots, the project aims to transform the parking experience, saving time for drivers and fostering sustainable urban mobility. 
+Motivated by the pressing need for efficient parking solutions, the project envisions a future where technology streamlines the allocation process. By optimizing routes and selecting suitable parking spots, the project aims to transform the parking experience, saving time for drivers and fostering sustainable urban mobility.
